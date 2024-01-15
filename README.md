@@ -11,5 +11,5 @@
 
 ### Website
 
-You can check my website here -> [![](https://img.shields.io/badge/%F0%9F%AA%AAportfolio-333333)](https://yudekio.github.io)
+[![Website](https://img.shields.io/badge/%F0%9F%AA%AAWebsite-333333)](https://yudekio.github.io)
 
