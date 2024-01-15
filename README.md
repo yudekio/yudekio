@@ -1,13 +1,14 @@
-### Skills:
+### Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23000?logo=JavaScript)
 ![Python](https://img.shields.io/badge/Python-%23000?logo=Python)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23000?logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23000?logo=TypeScript)
+![SQL](https://img.shields.io/badge/SQL-%23000?logo=SQL)
+![React](https://img.shields.io/badge/React-%23000?logo=React)
+![HTML](https://img.shields.io/badge/HTML-%23000?logo=HTML)
+![CSS](https://img.shields.io/badge/CSS-%23000?logo=CSS)
+![C++](https://img.shields.io/badge/C++-%23000?logo=C++)
+![R](https://img.shields.io/badge/R-%23000?logo=R)
 
 ### Website
 
