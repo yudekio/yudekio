@@ -13,5 +13,5 @@
 
 ### Website
 
-[![Website](https://img.shields.io/badge/Portfolio-%23000?logo=southwestairlines)](https://yudekio.github.io)]
+[![Website](https://img.shields.io/badge/Portfolio-%23000?logo=southwestairlines)](https://yudekio.github.io)
 
