@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/SQL-%23000?logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23000?logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23000?logo=TypeScript)
-![Java](https://img.shields.io/badge/JAVA-%23000)
+![Java](https://img.shields.io/badge/Java-%23000)
 ![C++](https://img.shields.io/badge/C++-%23000?logo=cplusplus)
 ![React](https://img.shields.io/badge/React-%23000?logo=React)
 ![HTML5](https://img.shields.io/badge/HTML-%23000?logo=html5)
