@@ -9,7 +9,6 @@
 ![SQL](https://img.shields.io/badge/SQL-%23000?logo=postgresql)
 ![R](https://img.shields.io/badge/R-%23000?logo=R)
 ![C++](https://img.shields.io/badge/C++-%23000?logo=cplusplus)
-
 ![HTML5](https://img.shields.io/badge/HTML-%23000?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-%23000?logo=css3)
 
